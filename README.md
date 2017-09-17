@@ -1,3 +1,3 @@
-# auto-install-
+# auto-install
 this is my first bash. this script get's and install some scripts like veil vega and ...
 need internet and root access
